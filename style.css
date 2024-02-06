@@ -1,0 +1,48 @@
+h1, h2, p{
+    margin: 0;
+    
+}
+a{
+    text-decoration: none;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+/*Header*/
+.header{
+    background-color:#aa43a2 ;
+    padding-top: 30px;
+    padding-bottom:30px ;
+}
+.header-container{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+.logo{
+    color:#fec830 ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
